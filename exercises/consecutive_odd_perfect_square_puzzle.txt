@@ -1,1 +1,0 @@
-Find the two consecutive 2 digit odd numbers whose sum is a perfect square.
