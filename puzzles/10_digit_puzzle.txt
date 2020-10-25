@@ -1,0 +1,13 @@
+I have a ten digit number. Each of the digits is different, and 
+first digit is divisible by 1
+first two digits are divisible by 2
+first three digits are divisible by 3
+first four digits are divisible by 4
+first five digits are divisible by 5
+first siz digits are divisible by 6
+first seven digits are divisible by 7
+first eight digits are divisible by 8
+first nine digits are divisible by 9
+first ten digits are divisible by 10
+
+What’s my number?
