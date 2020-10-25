@@ -1,0 +1,15 @@
+Documentation: https://docs.python.org/3/tutorial/datastructures.html
+
+List Exercise:
+1.  Create an empty list.
+2.  Add item apple to list.
+3.  Add item mango, banana & orange to list.
+4.  Get the first item of list.
+5.  Get the last item of list.
+6.  Get the 2nd & 3rd item of list.
+7.  Get the last 2 items of list.
+8.  Relace orange with grape.
+9.  Remove the last item of the list.
+10. Remove the first item of the list.
+11. Sort the list.
+12. Reverse the list.

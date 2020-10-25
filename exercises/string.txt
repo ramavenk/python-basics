@@ -1,0 +1,10 @@
+Documentation: https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
+
+Strings:
+1. concatenate 2 strings.
+   str1 = 'Hello'
+   str2 = 'World'
+2. Concatenate st1 & str2 with space between them and save the result in str3.
+3. Use indexing on str3 to display o.
+4. Use indexing on str3 to display d.
+5. Use slicing on str3 to display World.

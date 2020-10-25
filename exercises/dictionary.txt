@@ -1,0 +1,17 @@
+Documentation: https://docs.python.org/3/tutorial/datastructures.html#dictionaries
+
+Dictionaries:
+1. Create a new empty dictionary.
+2. Initialize a dictionary with the key/value pairs.
+	key	   | value
+	-----------|------
+	Texas      | Austin
+	California | Sacramento
+	Illinois   | Springfield
+
+3. Get the value of Texas.
+4. Add the following state capital to the dictionary:
+	key	   | value
+	-----------|------------------
+	Wisconsin  | Madisson-replaceme
+5. Overwrite the value Madisson-replaceme with Madison.
